@@ -1,8 +1,50 @@
 ---
 title: "About"
+format:
+  html:
+    theme: default
+    css: about.css
 ---
 
-Hello my name is Jacob Khaykin. I am a rising senior at Solon High School. I am really interested in Data Analysis and its applications which is why I am currently taking a class about it.
-My email is: jacobkhaykin27@solonschools.net
-GitHub repo link: https://github.com/JacobKhay/AI-shares
-Bootcamp link: https://bootcamp.davidkane.info/schedule.html
+<style>
+body {
+  background-color: #f0f4f8;
+  font-family: 'Lato', sans-serif;
+  color: #333;
+  line-height: 1.6;
+}
+
+.profile {
+  background: #ffffff;
+  padding: 2rem;
+  border-radius: 8px;
+  max-width: 700px;
+  margin: 2rem auto;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.profile h1 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.profile a {
+  color: #1a73e8;
+  text-decoration: none;
+}
+.profile a:hover {
+  text-decoration: underline;
+}
+</style>
+
+<div class="profile">
+
+# Hello! I'm **Jacob Khaykin**
+
+I’m a rising senior at Solon High School with a passion for **data analysis** and its real‑world applications. Currently, I’m exploring data science through dedicated coursework and hands‑on projects.
+
+- 📧 **Email:** [jacobkhaykin27@solonschools.net](mailto:jacobkhaykin27@solonschools.net)
+- 💻 **GitHub:** [AI‑shares](https://github.com/JacobKhay/AI-shares)
+- 🎓 **Bootcamp:** [David Kane’s Data Science Bootcamp](https://bootcamp.davidkane.info/schedule.html)
+
+</div>

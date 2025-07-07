@@ -1,12 +1,13 @@
 ---
 title: "Interactive AI Job Share Map"
 format: html
+author: "Jacob Khaykin"
 execute:
   echo: false
   warning: false
   message: false
 ---
-Have you ever wondered which locations utilize the most AI regarding their jobs? The results are supprising... the map shows that AI job postings remain heaviest in well‑known tech hubs like Santa Clara and San Francisco, but it also uncovers surprising hotspots in places such as Slope County, ND and Maries County, MO. Between 2018 and 2023, many suburban counties saw the biggest jumps in AI share, reflecting how remote‑friendly roles are spreading beyond traditional innovation centers. In contrast, much of the industrial Midwest and rural South still lag behind, underlining how uneven AI adoption is across the country.
+Have you ever wondered which locations utilize the most AI regarding their jobs? The results are suprising... the map shows that AI job postings remain heaviest in well‑known tech hubs like Santa Clara and San Francisco, but it also uncovers surprising hotspots in places such as Slope County, ND and Maries County, MO. Between 2018 and 2023, many suburban counties saw the biggest jumps in AI share, reflecting how remote‑friendly roles are spreading beyond traditional innovation centers. In contrast, much of the industrial Midwest and rural South still lag behind, underlining how uneven AI adoption is across the country.
 
 
 ```{r setup}
