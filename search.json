@@ -4,13 +4,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Hello my name is Jacob Khaykin. I am a rising senior at Solon High School. I am really interested in Data Analysis and its applications which is why I am currently taking a class about it. My email is: jacobkhaykin27@solonschools.net GitHub repo link: https://github.com/JacobKhay/AI-shares Bootcamp link: https://bootcamp.davidkane.info/schedule.html"
+    "text": "Hello! I’m Jacob Khaykin\nI’m a rising senior at Solon High School with a passion for data analysis and its real‑world applications. Currently, I’m exploring data science through dedicated coursework and hands‑on projects.\n\n📧 Email: jacobkhaykin27@solonschools.net\n💻 GitHub: AI‑shares\n🎓 Bootcamp: David Kane’s Data Science Bootcamp"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Interactive AI Job Share Map",
     "section": "",
-    "text": "Have you ever wondered which locations utilize the most AI regarding their jobs? The results are supprising… the map shows that AI job postings remain heaviest in well‑known tech hubs like Santa Clara and San Francisco, but it also uncovers surprising hotspots in places such as Slope County, ND and Maries County, MO. Between 2018 and 2023, many suburban counties saw the biggest jumps in AI share, reflecting how remote‑friendly roles are spreading beyond traditional innovation centers. In contrast, much of the industrial Midwest and rural South still lag behind, underlining how uneven AI adoption is across the country."
+    "text": "Have you ever wondered which U.S. counties lead in AI‑related job postings? This interactive map highlights both the average AI share over 2018‑2023 and the percentage‑point change since 2017‑2018.\n\nAverage AI Share shows where AI roles are most concentrated today.\n\nChange in AI Share reveals the fastest‑growing hotspots of remote‑friendly AI jobs.\n\nToggle between layers to explore regional patterns and see how traditional tech hubs compare with emerging counties."
   }
 ]
