@@ -1,0 +1,8 @@
+---
+title: "About"
+---
+
+Hello my name is Jacob Khaykin. I am a rising senior at Solon High School. I am really interested in Data Analysis and its applications which is why I am currently taking a class about it.
+My email is: jacobkhaykin27@solonschools.net
+GitHub repo link: https://github.com/JacobKhay/AI-shares
+Bootcamp link: https://bootcamp.davidkane.info/schedule.html
