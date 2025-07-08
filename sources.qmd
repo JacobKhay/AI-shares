@@ -25,7 +25,7 @@ format: html
 ## Code & Reproducibility
 
 - **GitHub Repository**: <https://github.com/JacobKhay/AI-shares> — all data‐prep, analysis, and Quarto site source  
-- **Quarto Site**: your published site URL (e.g. https://yourusername.github.io/AI-shares/)  
+- **Quarto Site**: https://jacobkhay.github.io/AI-shares/sources.html
 
 ## Software & Packages
 
