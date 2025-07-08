@@ -43,7 +43,7 @@ body {
 
 I’m a rising senior at Solon High School with a passion for **data analysis** and its real‑world applications. Currently, I’m exploring data science through dedicated coursework and hands‑on projects.
 
-- 📧 **Email:** [jacobkhaykin27@solonschools.net](mailto:jacobkhaykin27@solonschools.net)
+- 📧 **Email:** [jacobkhaykin@icloud.com](mailto:jacobkhaykin@icloud.com)
 - 💻 **GitHub:** [AI‑shares](https://github.com/JacobKhay/AI-shares)
 - 🎓 **Bootcamp:** [David Kane’s Data Science Bootcamp](https://bootcamp.davidkane.info/schedule.html)
 

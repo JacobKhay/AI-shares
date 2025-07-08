@@ -125,3 +125,4 @@ leaflet(map_data, options=leafletOptions(minZoom=4)) %>%
     options=layersControlOptions(collapsed=FALSE)
   )
 ```
+<div class="conclusion" style="max-width:800px;margin:2rem auto;padding:1rem;background:#fff;border-radius:8px;box-shadow:0 2px 6px rgba(0,0,0,0.1);"> **Map Takeaways:** Even outside Silicon Valley, some unexpected corners of America—like Slope County (ND) and Maries County (MO)—have AI roles making up over 5–10% of all job ads. Meanwhile, many rural and industrial counties remain below 1%. Between 2018 and 2023, suburban and remote‑friendly regions saw the fastest growth, underscoring how AI work is decoupling from traditional tech hubs. This uneven landscape highlights both the promise of remote work and the risk that smaller communities could be left behind in the AI economy. </div>
