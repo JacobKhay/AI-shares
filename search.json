@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "sources.html",
+    "href": "sources.html",
+    "title": "Sources",
+    "section": "",
+    "text": "Lightcast — AI-related job postings data (2014–2023)\n\nU.S. Census Bureau\n\nAmerican Community Survey (ACS, 5‑year estimates 2013–2022) for demographics\n\nLocal Area Unemployment Statistics (LAUS, 2013–2023) for employment counts\n\nQuarterly Workforce Indicators (QWI, 2013–2023) for labor turnover\n\nCounty Business Patterns (CBP, 2013–2023) for establishment sizes & industry employment\n\n\nFederal Housing Finance Agency (FHFA) — House Price Index & growth rates (2013–2024)\n\nUSPTO / PatentsView\n\nAll patents & inventor counts, by county\n\nAI-specific patent classification (Giczy et al., 2022)\n\n\nIntegrated Postsecondary Education Data System (IPEDS) — Bachelor’s & master’s degrees awarded per capita"
+  },
+  {
+    "objectID": "sources.html#data-sources",
+    "href": "sources.html#data-sources",
+    "title": "Sources",
+    "section": "",
+    "text": "Lightcast — AI-related job postings data (2014–2023)\n\nU.S. Census Bureau\n\nAmerican Community Survey (ACS, 5‑year estimates 2013–2022) for demographics\n\nLocal Area Unemployment Statistics (LAUS, 2013–2023) for employment counts\n\nQuarterly Workforce Indicators (QWI, 2013–2023) for labor turnover\n\nCounty Business Patterns (CBP, 2013–2023) for establishment sizes & industry employment\n\n\nFederal Housing Finance Agency (FHFA) — House Price Index & growth rates (2013–2024)\n\nUSPTO / PatentsView\n\nAll patents & inventor counts, by county\n\nAI-specific patent classification (Giczy et al., 2022)\n\n\nIntegrated Postsecondary Education Data System (IPEDS) — Bachelor’s & master’s degrees awarded per capita"
+  },
+  {
+    "objectID": "sources.html#code-reproducibility",
+    "href": "sources.html#code-reproducibility",
+    "title": "Sources",
+    "section": "Code & Reproducibility",
+    "text": "Code & Reproducibility\n\nGitHub Repository: https://github.com/JacobKhay/AI-shares — all data‐prep, analysis, and Quarto site source\n\nQuarto Site: your published site URL (e.g. https://yourusername.github.io/AI-shares/)"
+  },
+  {
+    "objectID": "sources.html#software-packages",
+    "href": "sources.html#software-packages",
+    "title": "Sources",
+    "section": "Software & Packages",
+    "text": "Software & Packages\n\nR (4.2+) with:\n\ntidyverse, fixest, modelsummary, kableExtra\n\nsf, leaflet, tigris, scales\n\n\nQuarto (Cosmo & Brand themes)"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -11,6 +39,6 @@
     "href": "index.html",
     "title": "Interactive AI Job Share Map",
     "section": "",
-    "text": "Have you ever wondered which U.S. counties lead in AI‑related job postings? This interactive map highlights both the average AI share over 2018‑2023 and the percentage‑point change since 2017‑2018.\n\nAverage AI Share shows where AI roles are most concentrated today.\n\nChange in AI Share reveals the fastest‑growing hotspots of remote‑friendly AI jobs.\n\nToggle between layers to explore regional patterns and see how traditional tech hubs compare with emerging counties."
+    "text": "Have you ever wondered which U.S. counties lead in AI‑related job postings? This interactive map highlights both the average AI share over 2018‑2023 and the percentage‑point change since 2017‑2018.\n\nAverage AI Share shows where AI roles are most concentrated today.\n\nChange in AI Share reveals the fastest‑growing hotspots of remote‑friendly AI jobs.\n\nToggle between layers to explore regional patterns and see how traditional tech hubs compare with emerging counties.\n\n\n\n\n\n\n\n\nMap Takeaways: Even outside Silicon Valley, some unexpected corners of America—like Slope County (ND) and Maries County (MO)—have AI roles making up over 5–10% of all job ads. Meanwhile, many rural and industrial counties remain below 1%. Between 2018 and 2023, suburban and remote‑friendly regions saw the fastest growth, underscoring how AI work is decoupling from traditional tech hubs. This uneven landscape highlights both the promise of remote work and the risk that smaller communities could be left behind in the AI economy."
   }
 ]

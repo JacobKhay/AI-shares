@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Untitled – AI Shares</title>
+<title>Sources – AI Shares</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -97,6 +97,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./sources.html" aria-current="page"> 
+<span class="menu-text">Sources</span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -108,15 +112,23 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#data-sources" id="toc-data-sources" class="nav-link active" data-scroll-target="#data-sources">Data Sources</a></li>
+  <li><a href="#code-reproducibility" id="toc-code-reproducibility" class="nav-link" data-scroll-target="#code-reproducibility">Code &amp; Reproducibility</a></li>
+  <li><a href="#software-packages" id="toc-software-packages" class="nav-link" data-scroll-target="#software-packages">Software &amp; Packages</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Untitled</h1>
+<h1 class="title">Sources</h1>
 </div>
 
 
@@ -133,8 +145,57 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="data-sources" class="level2">
+<h2 class="anchored" data-anchor-id="data-sources">Data Sources</h2>
+<ul>
+<li><strong>Lightcast</strong> — AI-related job postings data (2014–2023)<br>
+</li>
+<li><strong>U.S. Census Bureau</strong>
+<ul>
+<li>American Community Survey (ACS, 5‑year estimates 2013–2022) for demographics<br>
+</li>
+<li>Local Area Unemployment Statistics (LAUS, 2013–2023) for employment counts<br>
+</li>
+<li>Quarterly Workforce Indicators (QWI, 2013–2023) for labor turnover<br>
+</li>
+<li>County Business Patterns (CBP, 2013–2023) for establishment sizes &amp; industry employment<br>
+</li>
+</ul></li>
+<li><strong>Federal Housing Finance Agency (FHFA)</strong> — House Price Index &amp; growth rates (2013–2024)<br>
+</li>
+<li><strong>USPTO / PatentsView</strong>
+<ul>
+<li>All patents &amp; inventor counts, by county<br>
+</li>
+<li>AI-specific patent classification (Giczy et al., 2022)<br>
+</li>
+</ul></li>
+<li><strong>Integrated Postsecondary Education Data System (IPEDS)</strong> — Bachelor’s &amp; master’s degrees awarded per capita</li>
+</ul>
+</section>
+<section id="code-reproducibility" class="level2">
+<h2 class="anchored" data-anchor-id="code-reproducibility">Code &amp; Reproducibility</h2>
+<ul>
+<li><strong>GitHub Repository</strong>: <a href="https://github.com/JacobKhay/AI-shares" class="uri">https://github.com/JacobKhay/AI-shares</a> — all data‐prep, analysis, and Quarto site source<br>
+</li>
+<li><strong>Quarto Site</strong>: your published site URL (e.g.&nbsp;https://yourusername.github.io/AI-shares/)</li>
+</ul>
+</section>
+<section id="software-packages" class="level2">
+<h2 class="anchored" data-anchor-id="software-packages">Software &amp; Packages</h2>
+<ul>
+<li><strong>R</strong> (4.2+) with:
+<ul>
+<li>tidyverse, fixest, modelsummary, kableExtra<br>
+</li>
+<li>sf, leaflet, tigris, scales<br>
+</li>
+</ul></li>
+<li><strong>Quarto</strong> (Cosmo &amp; Brand themes)</li>
+</ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
